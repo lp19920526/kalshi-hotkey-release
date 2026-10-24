@@ -1,0 +1,5 @@
+{
+  "desktop": { "version": "4.0", "note": "" },
+  "ios": { "version": "4.0", "runtime": "4.0.0", "build": 6, "how": "testflight", "note": "" },
+  "updated": "2026-10-24"
+}
