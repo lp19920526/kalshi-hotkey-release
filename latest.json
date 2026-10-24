@@ -1,7 +1,7 @@
 {
   "desktop": {
-    "version": "4.3",
-    "note": "Mac 起不来时弹提示;Mac 打不开看 README 第 8 节"
+    "version": "4.4",
+    "note": "3/4 改市价买(卖一+0.02);止盈默认 100%"
   },
   "ios": {
     "version": "4.4",
