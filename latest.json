@@ -4,11 +4,11 @@
     "note": "Mac 起不来时弹提示;Mac 打不开看 README 第 8 节"
   },
   "ios": {
-    "version": "4.3",
+    "version": "4.4",
     "runtime": "4.0.0",
     "build": 6,
     "how": "ota",
-    "note": "与电脑版同号,无功能变化"
+    "note": "行情自动重连;3/4 市价买;止盈 100%"
   },
   "updated": "2026-10-24"
 }
