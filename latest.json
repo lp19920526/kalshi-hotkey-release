@@ -1,7 +1,7 @@
 {
   "desktop": {
-    "version": "4.2",
-    "note": "与 iPhone 同号,无功能变化"
+    "version": "4.3",
+    "note": "Mac 起不来时弹提示;Mac 打不开看 README 第 8 节"
   },
   "ios": {
     "version": "4.3",
