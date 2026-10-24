@@ -4,11 +4,11 @@
     "note": "新版本提示横幅"
   },
   "ios": {
-    "version": "4.1",
+    "version": "4.2",
     "runtime": "4.0.0",
     "build": 6,
     "how": "ota",
-    "note": "新版本横幅 + PULL OUT 置顶"
+    "note": "下拉刷新修好,完成有提示"
   },
   "updated": "2026-10-24"
 }
